@@ -1,0 +1,21 @@
+id,radar_link,title,dri,team_dri,status,tags,comments
+RAD-1,RAD-1,Sample Radar 1,Person 1,Team 1,Completed,"High Priority, Feature",Initial comment 1
+RAD-2,RAD-2,Sample Radar 2,Person 2,Team 2,In Progress,"Bug, Documentation",Initial comment 2
+RAD-3,RAD-3,Sample Radar 3,Person 3,Team 3,In Progress,"High Priority, Documentation",Initial comment 3
+RAD-4,RAD-4,Sample Radar 4,Person 4,Team 4,On Hold,"Documentation, Low Priority",Initial comment 4
+RAD-5,RAD-5,Sample Radar 5,Person 5,Team 5,On Hold,"Feature, Documentation",Initial comment 5
+RAD-6,RAD-6,Sample Radar 6,Person 6,Team 6,On Hold,"Documentation, High Priority",Initial comment 6
+RAD-7,RAD-7,Sample Radar 7,Person 7,Team 7,Completed,"Feature, Low Priority",Initial comment 7
+RAD-8,RAD-8,Sample Radar 8,Person 8,Team 8,On Hold,"Documentation, Bug",Initial comment 8
+RAD-9,RAD-9,Sample Radar 9,Person 9,Team 9,Completed,"Bug, Feature",Initial comment 9
+RAD-10,RAD-10,Sample Radar 10,Person 10,Team 10,In Progress,"High Priority, Feature",Initial comment 10
+RAD-11,RAD-11,Sample Radar 11,Person 11,Team 11,Completed,"Feature, Low Priority",Initial comment 11
+RAD-12,RAD-12,Sample Radar 12,Person 12,Team 12,Completed,"Low Priority, Bug",Initial comment 12
+RAD-13,RAD-13,Sample Radar 13,Person 13,Team 13,On Hold,"Bug, Documentation",Initial comment 13
+RAD-14,RAD-14,Sample Radar 14,Person 14,Team 14,On Hold,"Low Priority, Documentation",Initial comment 14
+RAD-15,RAD-15,Sample Radar 15,Person 15,Team 15,On Hold,"Feature, Low Priority",Initial comment 15
+RAD-16,RAD-16,Sample Radar 16,Person 16,Team 16,On Hold,"High Priority, Bug",Initial comment 16
+RAD-17,RAD-17,Sample Radar 17,Person 17,Team 17,On Hold,"Low Priority, Documentation",Initial comment 17
+RAD-18,RAD-18,Sample Radar 18,Person 18,Team 18,On Hold,"Bug, Feature",Initial comment 18
+RAD-19,RAD-19,Sample Radar 19,Person 19,Team 19,On Hold,"Low Priority, Bug",Initial comment 19
+RAD-20,RAD-20,Sample Radar 20,Person 20,Team 20,Completed,"Bug, Documentation",Initial comment 20
